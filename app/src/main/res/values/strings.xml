@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Me dog age</string>
+    <string name="Title">Write you age</string>
+    <string name="Your_age">You age</string>
+    <string name="calculate">calculate</string>
+    <string name="response"> You dog age is %d years old </string>
+    <string name="Error">Enter your age</string>
+</resources>
